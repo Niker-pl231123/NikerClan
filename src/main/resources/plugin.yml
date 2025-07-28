@@ -1,0 +1,6 @@
+name: NikerTemplate
+version: '1.0'
+main: dev.nikee.Main
+api-version: '1.20'
+authors:
+  - Niker
